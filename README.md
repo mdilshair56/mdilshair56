@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Muhammad Dilruba.<br><br>- 🔭 I’m working as a MERN Stack Developer<br>- 📚 I'm currently learning Python and Django<br>- ⚡ In my free time, I love to work on new projects as a practice and play cricket</p>
+<p align="left">This is Muhammad Dilruba.<br><br>- 🔭 I’m working as a MERN Stack Developer<br>- 📚 I'm currently learning Python and Django<br>- ⚡ In my free time, I love to work on new projects as a practice and explore the new technologies that can help to boost my skills and knowledge.</p>
 
 ###
 
