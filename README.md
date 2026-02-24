@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Muhammad Dilruba.<br><br>- 🔭 I’m working as a MERN Stack Developer<br>- 📚 Currently learning Python and Django<br>- ✉️ Contact me via: <a href="mailto:mdilrubazafar92@gmail.com">mdilrubazafar92@gmail.com</a><br>- 🌐 More about me: <a href="https://mdilshairzafar.netlify.app/">dilshairzafar.netlify.app</a></p>
+<p align="left">This is Muhammad Dilruba.<br><br>- 🔭 I’m working as a MERN Stack Developer<br>- 📚 Currently learning Python and Django<br>- ✉️ Contact me via: <a href="mailto:mdilrubazafar92@gmail.com">mdilrubazafar92@gmail.com</a><br>- 🌐 More about me: <a href="https://mdilshairzafar.netlify.app/">mdilshairzafar.netlify.app</a></p>
 
 ###
 
